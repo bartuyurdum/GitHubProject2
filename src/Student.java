@@ -4,4 +4,7 @@ public class Student {
             System.out.println("Hello GitHub!");
         }
     }
+    void myMethod1(){
+        System.out.println("Hello");
+    }
 }
